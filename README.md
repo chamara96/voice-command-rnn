@@ -1,5 +1,5 @@
 # Voice Command Interface for Robot Control
-**(Machine Learning Part of the Final Year Undergradute Project)**
+**(Machine Learning Part of the Final Year Undergraduate Project)**
   - Recurrent Neural Network
   - Create own datasets and Train
   - GUI

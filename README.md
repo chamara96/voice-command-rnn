@@ -23,6 +23,10 @@ $ python GUI.py
 
 ### Python Libraries
   - pytorch cpu
+  ```
+  $ pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+  ```
+  
   - tkinter
   - librosa
   - soundfile
